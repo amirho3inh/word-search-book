@@ -11,7 +11,7 @@
 [version-size]: https://img.shields.io/badge/version-2.1-blue.svg
 </div>
 
-this code generates a Word Search book A4 size and just input words in `words.txt` file
+this code generates a Word Search book any size and just input words in `words.txt` file
 
 ## Requirements
 
